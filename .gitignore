@@ -1,0 +1,10 @@
+.gradle/
+build/
+local.properties
+keystore.properties
+*.jks
+node_modules/
+dist/
+target/
+gen/
+companion.apk

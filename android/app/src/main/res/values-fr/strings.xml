@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_summary">Donne une nouvelle action à la touche Essential</string>
+    <string name="service_description">Écoute uniquement la touche Essential et lance l\'action choisie dans Essential Key Remapper sur votre ordinateur. Rien d\'autre n\'est lu ni envoyé.</string>
+</resources>

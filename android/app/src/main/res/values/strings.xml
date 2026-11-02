@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Essential Key Remapper</string>
+    <string name="service_summary">Gives the Essential key a new action</string>
+    <string name="service_description">Listens only to the Essential key and runs the action chosen in Essential Key Remapper on your computer. Nothing else is read or sent anywhere.</string>
+</resources>
